@@ -5,9 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Alumini Management System
+- 🔭 I’m currently working on** UIDAI Project**, My Designation is **Java Full Stack Developer **
 - 🌱 I’m currently learning Spring Boot along and Micro services
 - 👯 I’m looking to collaborate on Skill Development 
-- 💬 Ask me about JAVA,Databases,Python,Spring Boot,Angular
+- 💬 Ask me about JAVA,Databases,Python,Spring Boot,Angular & DevOps Tools
 - 📫 How to reach me: pedarajuchinnam@gmail.com
+- Mobile Number - 91-8143102827
 
