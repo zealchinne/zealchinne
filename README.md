@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on** UIDAI Project**, My Designation is **Java Full Stack Developer **
-- 🌱 I’m currently learning Java 17 & Spring Boot 3.0  along and Micro services
-- 👯 I’m looking to collaborate on Skill Development 
+- 🌱 I’m currently learning Java 17 & Spring Boot 3.0  and Go-Lan
+- 👯 I’m looking to collaborate on IT profissional. 
 - 💬 Ask me about JAVA,Databases,Python,Spring Boot,Angular & DevOps Tools
 - 📫 How to reach me: pedarajuchinnam@gmail.com
 - Mobile Number - 91-8143102827
