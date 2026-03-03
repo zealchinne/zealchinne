@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on** UIDAI Project**, My Designation is **Java Full Stack Developer **
-- 🌱 I’m currently learning Java 17 & Spring Boot 3.0  and Go-Lan
+- 🔭 I have been working 6+ years of experienc in Java Full stack
+- 🌱 Past 18 months working in Wipro as Java full stack developer 
 - 👯 I’m looking to collaborate on IT profissional. 
-- 💬 Ask me about JAVA,Databases,Python,Spring Boot,Angular & DevOps Tools
-- 📫 How to reach me: pedarajuchinnam@gmail.com
-- Mobile Number - 91-8143102827
+- 💬 Ask me about JAVA and It's features 8,17 and 21,Databases(SQL /No SQL),Spring Boot, Hibernate,AWS, Angular& DevOps Tools
+- 📫 How to reach me: chraju2827@gmail.com or pedarajuchinnam@gmail.com
+- Mobile Number - 91-8143102827 / 9390439695
 
