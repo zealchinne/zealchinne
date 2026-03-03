@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I have been working 6+ years of experience in Java Full stack
+- 🔭 I'm having 6+ years of experience in Java Full stack
 - 🌱 Past 18 months I have been working in Wipro as Java full stack developer 
 - 👯 I’m looking to collaborate on IT profissional. 
 - 💬 Ask me about JAVA and It's features 8,17 and 21,Databases(SQL /No SQL),Spring Boot, Hibernate,AWS, Angular& DevOps Tools
